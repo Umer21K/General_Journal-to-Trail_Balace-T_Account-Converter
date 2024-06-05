@@ -1,0 +1,6 @@
+ENTRY NO,DATE,DESCRIPTION, ,DR+,CR+
+1,jan 1,cash, ,79000
+2,jan 1, ,common_stock, ,79000, 
+3,jan 3,office_supplies, ,1000, , 
+4,jan 3,furniture, ,1300, , 
+5,jan 11, ,account_p, ,2300, 
