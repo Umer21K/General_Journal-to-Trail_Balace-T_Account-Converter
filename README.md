@@ -1,6 +1,6 @@
 # General Journal to Trial Balance and T-Account Converter
 
-This project is a C++ application that enables users to manage financial transactions through a general journal, update entries, and generate T-accounts and trial balances based on those entries. The project demonstrates various object-oriented programming (OOP) concepts.
+I created this project for my Object Oriented Programming and Accounting Fundamentals course. It is a c++ application which help in reducing the task of a general accountant. 
 
 ## Features
 
